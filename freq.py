@@ -11,4 +11,5 @@ for i in range(1,len(str1)):
         prev=str1[i]
         count=1
 result[prev]=count
+print("*"*50)
 print(result)
