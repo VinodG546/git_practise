@@ -13,3 +13,4 @@ for i in range(1,len(str1)):
 result[prev]=count
 print("*"*50)
 print(result)
+print("hello world") 
